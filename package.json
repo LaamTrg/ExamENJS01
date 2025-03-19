@@ -1,0 +1,27 @@
+{
+  "name": "examenjs01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "��#\u0000 \u0000E\u0000x\u0000a\u0000m\u0000E\u0000N\u0000J\u0000S\u00000\u00001\u0000\r\u0000 \u0000",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "readline-sync": "^1.4.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaamTrg/ExamENJS01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LaamTrg/ExamENJS01/issues"
+  },
+  "homepage": "https://github.com/LaamTrg/ExamENJS01#readme",
+  "devDependencies": {}
+}
